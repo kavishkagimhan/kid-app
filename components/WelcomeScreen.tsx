@@ -116,7 +116,7 @@ export default function WelcomeScreen({ onStart }: WelcomeScreenProps) {
             htmlFor="name"
             className="block text-2xl sm:text-3xl md:text-4xl font-bold text-purple-700 mb-4 sm:mb-6"
           >
-            What's your name? 👶
+            What&apos;s your name? 👶
           </label>
           <motion.input
             id="name"
